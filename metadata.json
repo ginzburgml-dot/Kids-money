@@ -1,0 +1,7 @@
+{
+  "name": "Penny's Piggy Adventure",
+  "description": "A vibrant, gamified money management app for kids to learn saving, spending, and earning through interactive goals and fun chores.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
